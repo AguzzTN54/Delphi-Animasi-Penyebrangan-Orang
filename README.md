@@ -1,10 +1,10 @@
 # Delphi-Animasi-Penyebrangan-Orang
 Animasi Penyebrangan Orang dengan Timer pada Delphi
 
-![ScreenShot1](screenshot1.jpg"Screenshot 1")
+![ScreenShot1](screenshot1.jpg "Screenshot 1")
 Lampu Pejalan Kaki Merah
 
-![Screenshot2](blob/master/screenshot2.jpg?raw=true"Screenshot 2")
+![Screenshot2](screenshot2.jpg "Screenshot 2")
 Lampu Pejalan Kaki Hijau
 
 ## Komponen
@@ -26,5 +26,6 @@ Lampu Pejalan Kaki Hijau
 > - Ketika kendaraan berhenti ddimunculkan delay 30 detik dengan indikator, kendaraan berhenti di belakang zebra cross, dan pengendara menyebrang jalan
 > - Setelah waktu menjadi 0 detik, lampu penyebrangan menjadi merah, lampu untuk pengendara berubah hijau.
 > - Kendaraan kembali berjalan, dan pejalan kaki kembali ke titik awal.
+
 
 #### Kritik dan saran dipersilahkan :D
