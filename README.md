@@ -1,10 +1,10 @@
 # Delphi-Animasi-Penyebrangan-Orang
 Animasi Penyebrangan Orang dengan Timer pada Delphi
 
-![ScreenShot1](screenshot1.jpg"Screenshot 1")
+![ScreenShot1](screenshot1.jpg "Screenshot 1")
 Lampu Pejalan Kaki Merah
 
-![Screenshot2](blob/master/screenshot2.jpg?raw=true"Screenshot 2")
+![Screenshot2](screenshot2.jpg "Screenshot 2")
 Lampu Pejalan Kaki Hijau
 
 ## Komponen
