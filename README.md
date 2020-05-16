@@ -26,3 +26,5 @@ Lampu Pejalan Kaki Hijau
 > - Ketika kendaraan berhenti ddimunculkan delay 30 detik dengan indikator, kendaraan berhenti di belakang zebra cross, dan pengendara menyebrang jalan
 > - Setelah waktu menjadi 0 detik, lampu penyebrangan menjadi merah, lampu untuk pengendara berubah hijau.
 > - Kendaraan kembali berjalan, dan pejalan kaki kembali ke titik awal.
+
+#### Kritik dan saran dipersilahkan :D
